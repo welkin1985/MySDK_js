@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk">
+    <output-path>$PROJECT_DIR$/out/artifacts/sdk</output-path>
+    <root id="archive" name="sdk.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
